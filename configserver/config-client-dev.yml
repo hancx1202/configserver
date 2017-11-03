@@ -1,1 +1,4 @@
 foo: test
+
+server:
+  port: 8887
